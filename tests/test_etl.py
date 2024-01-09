@@ -2,10 +2,15 @@ import os
 import json
 from datetime import datetime, timedelta
 import pandas as pd
-from dags.etl_utils import create_sql_statements
 from unittest.mock import Mock, patch
 import pytest
+
+import sys
+sys.path.append("/mnt/c/Users/Admin/Documents/Data-Internship-Home-Assignment")
+
 from dags.etl import extract, transform, load
+
+
 
 @pytest.fixture
 def mocked_sqlite_hook(monkeypatch):
@@ -28,6 +33,12 @@ def test_transform():
     extracted_dir = '/mnt/c/Users/Admin/Documents/Data-Internship-Home-Assignment/staging/extracted'
     transformed_dir = '/mnt/c/Users/Admin/Documents/Data-Internship-Home-Assignment/staging/transformed'
 
+    print(f"Current working directory: {os.getcwd()}")
+    print(f"Extracted directory path: {extracted_dir}")
+    print(f"Transformed directory path: {transformed_dir}")
+    
+    
+
     transform(extracted_dir=extracted_dir, transformed_dir=transformed_dir)
 
     transformed_file = os.path.join(transformed_dir, 'transformed_0.json')
@@ -37,6 +48,9 @@ def test_transform():
 
 def test_load(mocked_sqlite_hook):
     transformed_dir = '/mnt/c/Users/Admin/Documents/Data-Internship-Home-Assignment/staging/transformed'
+
+    print(f"Current working directory: {os.getcwd()}")
+    print(f"Transformed directory path: {transformed_dir}")
 
     load(transformed_dir=transformed_dir)
 

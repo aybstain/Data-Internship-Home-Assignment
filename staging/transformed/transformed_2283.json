@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Entry Level Software Engineer ",
+    "industry": "Information Technology and Services",
+    "description": "&lt;p&gt;&lt;strong&gt;Entry Level Software Engineer &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;West Chester, PA (Temporarily remote due to Covid-19)&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Pay Rate - $25.00 - $28.00/hr (Depending on Experience) &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;As Software Engineer, you would be responsible for the development and testing of the services that comprise the back-office platform for a Fortune 50 company. We are seeking a Computer Science or related major graduate (or 0-3 years of experience), who has a technical foundation with problem-solving skills and a passion for learning new technologies. As an Associate level Engineer, you would work with guidance from senior-level engineers on designs and implementation.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt; If you feel that this describes you, keep reading and apply! &lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Responsibilities &lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Work within an Agile environment with 2-3 week sprints &lt;/li&gt;&lt;li&gt;Create edits to new and existing applications within Java &lt;/li&gt;&lt;li&gt;Work through the full Software Development Life Cycle &lt;/li&gt;&lt;li&gt;Implement testing and debugging software components &lt;/li&gt;&lt;li&gt;Document all development activities &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Requirements &lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Completed Bachelors degree in Computer Science, Information Technology or a related field&lt;/li&gt;&lt;li&gt;Experience working with Python and SQL &lt;/li&gt;&lt;li&gt;Worked within a Linux environment &lt;/li&gt;&lt;li&gt;Interested in Big Data Platforms and tools &lt;/li&gt;&lt;li&gt;Strong written and oral communication &lt;/li&gt;&lt;li&gt;Strong willingness to learn &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Additional Benefits&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Technical Training to provide accelerated impact to team\u2019s initiatives &lt;/li&gt;&lt;li&gt;Exposure to cutting edge technologies and methodologies &lt;/li&gt;&lt;li&gt;Ongoing professional development training &lt;/li&gt;&lt;li&gt;Collaborative team environment &lt;/li&gt;&lt;li&gt;Healthcare coverage &lt;/li&gt;&lt;li&gt;Holiday paid time off &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Eight Eleven Group provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, national origin, age, sex, citizenship, disability, genetic information, sexual orientation, gender identity, marital status, amnesty or status as a covered veteran in accordance with applicable federal, state, and local laws.&lt;/p&gt;",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-27T19:20:01.000Z"
+  },
+  "company": {
+    "name": "Brooksource",
+    "link": "https://www.linkedin.com/company/brooksource"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": ""
+  },
+  "salary": {
+    "currency": "",
+    "min_value": "",
+    "max_value": "",
+    "unit": ""
+  },
+  "location": {
+    "country": "US",
+    "locality": "West Chester",
+    "region": "PA",
+    "postal_code": "19381",
+    "street_address": null,
+    "latitude": 39.96048,
+    "longitude": -75.60522
+  }
+}
